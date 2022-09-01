@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello World, My Name is Nicholas Jones 👋
+- I love to leverage technology to find better ways to complete tasks
+- I enjoy making functional web apps
 
-<!--
-**nuckarronjones/nuckarronjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+<p align="left">
+  <img alt="HTML" src="https://img.shields.io/static/v1?label=&message=HTML&color=orange">
+  <img alt="CSS" src="https://img.shields.io/static/v1?label=&message=CSS&color=blue">
+  <img alt="Javascript" src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow">
+  <img alt="Nodejs" src="https://img.shields.io/static/v1?label=&message=NodeJs&color=success">
+  <img alt="SQL" src="https://img.shields.io/static/v1?label=&message=SQL&color=green">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks
+<p align="left">
+  <img alt="Bootstrap" src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=purple">
+  <img alt="jQuery" src="https://img.shields.io/static/v1?label=&message=JQuery&color=blue">
+</p>
