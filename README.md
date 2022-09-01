@@ -22,4 +22,5 @@
   <img alt="Netlify" src="https://img.shields.io/static/v1?label=&message=Netlify&color=9cf">
   <img alt="Github" src="https://img.shields.io/static/v1?label=&message=Github&color=lightgrey">
   <img alt="Webflow" src="https://img.shields.io/static/v1?label=&message=Webflow&color=informational">
+  <img alt="Figma" src="https://img.shields.io/static/v1?label=&message=Figma&color=orange">
 </p>
