@@ -16,3 +16,10 @@
   <img alt="Bootstrap" src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=purple">
   <img alt="jQuery" src="https://img.shields.io/static/v1?label=&message=JQuery&color=blue">
 </p>
+
+### Tools
+<p align="left">
+  <img alt="Netlify" src="https://img.shields.io/static/v1?label=&message=JQuery&color=9cf">
+  <img alt="Github" src="https://img.shields.io/static/v1?label=&message=JQuery&color=lightgrey">
+  <img alt="Webflow" src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=informational">
+</p>
