@@ -19,7 +19,7 @@
 
 ### Tools
 <p align="left">
-  <img alt="Netlify" src="https://img.shields.io/static/v1?label=&message=JQuery&color=9cf">
-  <img alt="Github" src="https://img.shields.io/static/v1?label=&message=JQuery&color=lightgrey">
-  <img alt="Webflow" src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=informational">
+  <img alt="Netlify" src="https://img.shields.io/static/v1?label=&message=Netlify&color=9cf">
+  <img alt="Github" src="https://img.shields.io/static/v1?label=&message=Github&color=lightgrey">
+  <img alt="Webflow" src="https://img.shields.io/static/v1?label=&message=Webflow&color=informational">
 </p>
