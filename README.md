@@ -1,5 +1,5 @@
 ## Hello World, My Name is Nicholas Jones 👋
-- I love to leverage technology to find better ways to complete tasks
+- I love to leverage technology to find better ways to accomplish tasks
 - I enjoy making functional web apps
 - I love providing feedback and helping others test their applications
 
