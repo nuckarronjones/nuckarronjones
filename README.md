@@ -21,7 +21,6 @@
 ### Templating
 <p align="left">
   <img alt='Eleventy' src='https://img.shields.io/badge/Eleventy-100000?style=for-the-badge&logo=Eleventy&logoColor=white&labelColor=black&color=black'/>
-  <img alt='nunjucks' src='https://img.shields.io/badge/Nunjucks-100000?style=for-the-badge&logo=nunjucks&logoColor=1C6C11&labelColor=FFFFFF&color=FFFFFF'/>
 </p>
 
 
