@@ -16,6 +16,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img alt='React' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=React&logoColor=40D3DD&labelColor=5C5C5C&color=5C5C5C'/>
 </p>
 
 ### Templating
