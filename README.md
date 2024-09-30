@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/angular-0769AD?style=for-the-badge&logo=angular&logoColor=red" />
   <img alt='Eleventy' src='https://img.shields.io/badge/Eleventy-100000?style=for-the-badge&logo=Eleventy&logoColor=white&labelColor=black&color=black'/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Heroku-563D7C?style=for-the-badge&logo=heroku&logoColor=white" /> 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
 </p>
