@@ -1,7 +1,4 @@
 ## Hello World, My Name is Nicholas Jones 👋
-- I love to leverage technology to find better ways to accomplish tasks
-- I enjoy making functional web apps
-- I love providing feedback and helping others test their applications
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
