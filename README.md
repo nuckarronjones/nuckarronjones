@@ -20,7 +20,7 @@
   
 ### Databases
   <p>
-    <img alt="sql" src="https://img.shields.io/badge/postgresql-1e1e1e?style=for-the-badge&logo=mongodb&logoColor=blue">
+    <img alt="sql" src="https://img.shields.io/badge/postgresql-1e1e1e?style=for-the-badge&logo=postgresql&logoColor=blue">
     <img alt="sql" src="https://img.shields.io/badge/mongodb-005C84?style=for-the-badge&logo=mongodb&logoColor=green">  
   </p>
   
