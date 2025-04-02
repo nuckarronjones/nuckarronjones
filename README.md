@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     <img src="https://img.shields.io/badge/angular-0769AD?style=for-the-badge&logo=angular&logoColor=red" />
+    <img alt="sql" src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">  
   </p>
   
 ### Templating
@@ -19,7 +20,7 @@
   
 ### Databases
   <p>
-    <img alt="sql" src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">  
+    <img alt="sql" src="https://img.shields.io/badge/postgresql-1e1e1e?style=for-the-badge&logo=mongodb&logoColor=blue">
     <img alt="sql" src="https://img.shields.io/badge/mongodb-005C84?style=for-the-badge&logo=mongodb&logoColor=green">  
   </p>
   
