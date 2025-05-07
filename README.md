@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     <img src="https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=red" />
+    <img src="https://img.shields.io/badge/React-292b2c?style=for-the-badge&logo=react&logoColor=blue" />
     <img alt="sql" src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">  
   </p>
   
