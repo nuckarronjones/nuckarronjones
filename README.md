@@ -19,6 +19,11 @@
     <img alt='Eleventy' src='https://img.shields.io/badge/Eleventy-100000?style=for-the-badge&logo=Eleventy&logoColor=white&labelColor=black&color=black'/>
   </p>
   
+### Testing
+  <p>
+    <img alt='Cypress' src='https://img.shields.io/badge/Cypress-100000?style=for-the-badge&logo=Cypress&logoColor=white&labelColor=green&color=green'/>
+  </p>
+  
 ### Databases
   <p>
     <img alt="sql" src="https://img.shields.io/badge/postgresql-1e1e1e?style=for-the-badge&logo=postgresql&logoColor=blue">
